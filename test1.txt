@@ -10,3 +10,7 @@ The second line to test
 版本2.3
 
 使用git reset --hard 版本号可以更新想要的版本
+
+使用git checkout filename 可以将工作区的文件（使用git add）在工作区未提交的更改删除。
+
+
