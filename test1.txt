@@ -21,3 +21,7 @@ The second line to test
 
 // ------------
 在分支master中添加内容
+// ----------
+在分支dev中添加内容
+
+在分支bug中添加内容
