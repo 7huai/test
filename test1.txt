@@ -9,3 +9,4 @@ The second line to test
 版本2.2
 版本2.3
 
+使用git reset --hard 版本号可以更新想要的版本
