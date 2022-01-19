@@ -27,3 +27,5 @@ WTF
 在快速合并模式下，删除分支后，会丢失分支信息使用git merge --no-ff -m "comment" dev 不用快速模式
 
 我又是一个分支 dev 
+
+解决bug_404冲突
